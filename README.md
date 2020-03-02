@@ -1,8 +1,7 @@
-# Prediction of grayscale images of letters Q - Z eith autoencoders DL
-
+# Prediction of grayscale images of letters P - Z eith autoencoders DL
 #### Autoencoders and NN on P-Z letters
 
-Questo README é una conversione automatica del file "relazione.pdf" che é formattato in modo migliore e contiene immagini di esempio! Leggi quello!
+ATTENZIONE: Questo README é una conversione automatica del file "relazione.pdf" che é formattato in modo migliore e contiene immagini di esempio! Leggi quello!
 
 ## Introduzione
 
