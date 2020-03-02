@@ -2,6 +2,8 @@
 
 #### Autoencoders and NN on P-Z letters
 
+Questo README é una conversione automatica del file "relazione.pdf" che é formattato in modo migliore e contiene immagini di esempio! Leggi quello!
+
 ## Introduzione
 
 Il progetto è stato realizzato su google ​ **colab** ​ in ​ **python** ​, servendosi delle librerie Keras,
